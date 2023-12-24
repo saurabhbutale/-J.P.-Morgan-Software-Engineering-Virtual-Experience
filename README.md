@@ -3,7 +3,7 @@ This repository contains all the submitted patch files of the various tasks assi
 
 ---
 ## I have worked on the following tasks during the internship
-#### 1. Interface with a stock price data feed [Click here to see Task-1](https://github.com/PratyushKumar-0903/JP-Morgan-Virtual-Internship-2022/tree/master/Task_1/solution)
+#### 1. Interface with a stock price data feed [Click here to see Task-1](Task_1/solution/0001-Create-Patch-File.patch)
 - Interface with a stock price data feed and set your system for analysis of data
 - `Finalcial Data` 
 - `Python3`
