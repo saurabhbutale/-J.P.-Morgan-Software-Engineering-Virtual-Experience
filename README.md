@@ -10,7 +10,7 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Git`
 - `Basic Programming`
 
-#### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/PratyushKumar-0903/JP-Morgan-Virtual-Internship-2022/tree/master/Task_2/solution)
+#### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](Task_2/solution/0001-Create-Patch-File.patch)
 - Implement the perspective open source code in prepration for data visualization 
 - `React js` 
 - `TypeScript`
@@ -25,5 +25,4 @@ This repository contains all the submitted patch files of the various tasks assi
 - Make a contribution to Perspective or other projects backlogs 
 - `Contrubuting to the Open Source Community`
 ---
-#### My Certificate of Completion
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_FYquW8LGzsM8QppmQ_1649919700864_completion_certificate.pdf"><p align= "center"><img src="https://github.com/PratyushKumar-0903/JP-Morgan-Virtual-Internship-2022/blob/master/Certificate.png"></p></a>
+
